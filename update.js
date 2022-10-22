@@ -1,4 +1,4 @@
-//update
+
 const fs = require ('fs')
 
 const update = function(note, oldNote){
