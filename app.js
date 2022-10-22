@@ -4,7 +4,7 @@ const read = require ('./read')
 const present = require ('./present')
 const update = require ('./update')
     const data = process.argv
-
+//added update
 if(data[2]== "add"){
     const note ={
         "id":data [3],
