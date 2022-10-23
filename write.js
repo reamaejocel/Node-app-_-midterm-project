@@ -5,3 +5,4 @@ fs.writeFileSync('./task.txt', data);
     }
 
 module.exports = write
+//update
