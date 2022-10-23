@@ -5,6 +5,6 @@ const fs = require ('fs')
 
         newNote.push(note)
         fs.writeFileSync('task.txt',JSON.stringify(newNote))
-//update
+
     }
     module.exports = add
